@@ -1,0 +1,17 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  mat-form-field{
+    width: 100%;
+  }
+  
+h1{
+    color: orange;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    align-items: center;
+    width: 100%;
+    margin-top: 5%;
+  }
